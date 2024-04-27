@@ -1,1 +1,1 @@
-# Referente aos exercícios da lista 4, da matéria de estrutura de dados 1. 
+# Atividade 4 - Lista 1, matéria de Estrutura de Dados 1. 
